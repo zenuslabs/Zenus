@@ -1,6 +1,6 @@
 # Vulnerability Disclosure Policy
 
-This document outlines Zenus's vulnerability disclosure policy. For more information about Zenus's approach to security, please visit [Zenuslabs.com/security](https://Zenus.com/security).
+This document outlines Zenus's vulnerability disclosure policy. For more information about Zenus's approach to security, please visit [Zenuslabs.com/security](https://Zenuslabs.com/security).
 
 ## Reporting a Vulnerability
 
